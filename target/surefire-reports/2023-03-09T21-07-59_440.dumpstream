@@ -1,0 +1,5 @@
+# Created at 2023-03-09T21:08:00.353
+Boot Manifest-JAR contains absolute paths in classpath 'D:\AWS\CIVIL Edu AWS Batch 8\Maven Practice-B8\01-Maven-App-CivilEdu\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
